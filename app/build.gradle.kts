@@ -50,6 +50,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
+    implementation(libs.androidx.swiperefreshlayout)
 
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.jetbrains.kotlinx.coroutines.core)
